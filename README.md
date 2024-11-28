@@ -1,11 +1,10 @@
 # Hey there! 👋 Welcome to my world 🌐
 
-I'm **[Your Name]**, a passionate **Cybersecurity Specialist**, **Swift Developer**, and tech enthusiast who thrives on creating innovative solutions. 🚀 Whether it's crafting sleek apps or diving deep into cybersecurity challenges, I’m all about turning ideas into reality. ✨
+I'm **GehadEid**, a passionate **Developer &**, **Cybersecurity Specialist**, and tech enthusiast who thrives on creating innovative solutions. Whether it's crafting sleek apps or diving deep into cybersecurity challenges, I’m all about turning ideas into reality. ✨
 
 ## 💻 **What I Do**
 - 🔒 **Cybersecurity**: Making systems safer, one vulnerability at a time.
 - 📱 **iOS Development**: Building stunning apps with **SwiftUI** and **GameKit**.
-- 🤖 **AI & Machine Learning**: Leveraging tools like **Hugging Face** for smarter apps.
 - 🎮 **Game Development**: Creating multiplayer games that bring people together.
 
 ## 🏆 **My Achievements**
