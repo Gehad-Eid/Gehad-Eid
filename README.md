@@ -32,9 +32,7 @@ I'm **GehadEid**, a passionate **Developer &**, **Cybersecurity Specialist**, an
 - 🖤 I’ve got a soft spot for creative coding projects.
 
 ## 📫 **Let’s Connect**
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐦 [Twitter](https://twitter.com/your-profile)
-- 🌐 [Portfolio](https://yourportfolio.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gehadeid/)
 
 ---
 
