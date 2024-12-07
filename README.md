@@ -18,7 +18,7 @@ I'm **GehadEid**, a passionate **Developer &**, **Cybersecurity Specialist**, an
 - **Languages**: Swift, Python, JavaScript, C#
 - **Frameworks**: SwiftUI, Firebase, GameKit
 - **Tools**: Xcode, Visual Studio Code, Git
-- **Specialties**: AI/ML, Backend Integration, UI/UX Design
+- **Specialties**: AI/ML, Backend Integration
 
 ## 📚 **Projects**
 - **🎨 Drawing App**: A SwiftUI app with PencilKit for sketching masterpieces.
@@ -26,10 +26,6 @@ I'm **GehadEid**, a passionate **Developer &**, **Cybersecurity Specialist**, an
 - **📅 Content Creator App**: Organizing posts and events with a calendar view.
 - **🔍 Post Evaluation Tool**: Using AI models to analyze social media content.
 
-## 🌟 **Fun Facts**
-- 🎭 I love dark humor and dark romance.
-- 🧗‍♂️ I’m all about adventure and chasing dopamine-filled thrills.
-- 🖤 I’ve got a soft spot for creative coding projects.
 
 ## 📫 **Let’s Connect**
 - 💼 [LinkedIn](https://www.linkedin.com/in/gehadeid/)
