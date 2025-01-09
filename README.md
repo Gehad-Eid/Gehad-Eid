@@ -1,7 +1,7 @@
 
-# Hi there! 👋 Welcome to My GitHub Profile
+# Yo! this is **Gehad**
 
-I am an **IT graduate** with a passion for **cybersecurity**, **programming**, and all things tech. Here's what you can find in my repositories:
+I'm an **IT graduate** with a passion for **cybersecurity**, **programming**, and all nerdey shuff. that's what u gonna see in my repositories:
 
 - 🔒 **Cybersecurity**: Making systems safer, one vulnerability at a time!
 - 📱 **iOS Development**: Building stunning apps with **SwiftUI** and other Apple advanced technolongies.
@@ -10,16 +10,8 @@ I am an **IT graduate** with a passion for **cybersecurity**, **programming**, a
 
 ---
 
-## 📚 About Me
-
-- 🌟 **Hobbies:** Adventure, Gameing, and Coding 
-- 💡 **Current Interests:** Building innovative apps and mastering Cybersecurety tools
-- 🏆 **Achievements:** 
-  - 🥇 **Naqlthon Winner**: 1st Place in Hajj & Umrah Track 🕋.
-  - 🔥 **Top 5 in Ahhil Consultathon**: Innovating solutions for real-world challenges.
-  - 🚁 **Tuwaiq Drones Challenge**: Built a gas-leak detecting drone.
-  - 🎨 **5G University Competition**: Designed AR glasses for tourists.
-  - 💡 Participated in **McKinsey Forward Program**.
+## Deep divie into knowing me
+  I’m all about adventure, gaming, and geeking out with code—basically, living that dopamine-fueled life! Right now, I’m super into building innovative apps and getting my hands dirty with some cybersecurity tools. Along the way, I’ve hit some pretty epic milestones: snagged **1st Place at Naqlthon** (Hajj & Umrah Track, no less—talk about next-level problem-solving 🕋), made it to the **Top 5 in the Ahhil Consultathon** with some game-changing ideas, and even built a **gas-leak-detecting drone** for the **Tuwaiq Drones Challenge** 🚁. Oh, and let’s not forget designing **AR glasses for tourists** during the **5G University Competition**—tech meets travel, honey! I’ve also leveled up my leadership vibes by diving into the **McKinsey Forward Program**. It’s been a wild ride, and I’m just getting started 🔥.
 
 ---
 
@@ -37,31 +29,27 @@ I am an **IT graduate** with a passion for **cybersecurity**, **programming**, a
 
 - **Languages**: 
 
-<img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=swift&logoColor=%23F05138&logoSize=auto&label=swift&color=%23F05138">
-<img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=python&logoColor=%233776AB&logoSize=auto&label=python&color=%233776AB">
-<img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=javascript&logoColor=%23F7DF1E&logoSize=auto&label=javascript&color=%23F7DF1E">
-<img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=cplusplus&logoColor=%2300599C&logoSize=auto&label=C%2B%2B&color=%2300599C">
-<img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=dart&logoColor=%230175C2&logoSize=auto&label=Dart&color=%230175C2">
-<img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=php&logoColor=%23777BB4&logoSize=auto&label=php&color=%23777BB4">
-<img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=shell&logoColor=%23FFD500&logoSize=auto&label=Shell&color=%23FFD500">
-<img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=html5&logoColor=%23E34F26&logoSize=auto&label=HTML5&color=%23E34F26">
-<img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=css&logoColor=%23663399&logoSize=auto&label=CSS&color=%23663399">
-<img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=mysql&logoColor=%23003B57&logoSize=auto&label=mySQL&color=%23003B57">
-<img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=assemblyscript&logoColor=%23007AAC&logoSize=auto&label=Assembly&color=%23007AAC">
-<img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=latex&logoColor=%23008080&logoSize=auto&label=LaTeX&color=%23008080">
-
-
-
-
-
+  <img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=swift&logoColor=%23F05138&logoSize=auto&label=swift&color=%23F05138">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=python&logoColor=%233776AB&logoSize=auto&label=python&color=%233776AB">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=javascript&logoColor=%23F7DF1E&logoSize=auto&label=javascript&color=%23F7DF1E">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=cplusplus&logoColor=%2300599C&logoSize=auto&label=C%2B%2B&color=%2300599C">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=dart&logoColor=%230175C2&logoSize=auto&label=Dart&color=%230175C2">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=php&logoColor=%23777BB4&logoSize=auto&label=php&color=%23777BB4">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=shell&logoColor=%23FFD500&logoSize=auto&label=Shell&color=%23FFD500">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=html5&logoColor=%23E34F26&logoSize=auto&label=HTML5&color=%23E34F26">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=css&logoColor=%23663399&logoSize=auto&label=CSS&color=%23663399">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=mysql&logoColor=%23003B57&logoSize=auto&label=mySQL&color=%23003B57">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=assemblyscript&logoColor=%23007AAC&logoSize=auto&label=Assembly&color=%23007AAC">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=latex&logoColor=%23008080&logoSize=auto&label=LaTeX&color=%23008080">
 
 - **Frameworks**:
 
   <img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=react&logoColor=%2361DAFB&logoSize=auto&label=React&color=%2361DAFB">
   <img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=nodedotjs&logoColor=%235FA04E&logoSize=auto&label=Node.js&color=%235FA04E">
-
-
-  
+  <img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logoColor=%235FA04E&logoSize=auto&label=GameKit&color=%237484c4">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logoColor=%235FA04E&logoSize=auto&label=SpriteKit&color=%238e6ea6">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logoColor=%235FA04E&logoSize=auto&label=SceneKit&color=%23a94a4a">
+ 
 - **Tools**:
 
   <img alt="Static Badge" src="https://img.shields.io/badge/Good-Good?logo=postman&logoColor=%23FF6C37&logoSize=auto&label=Postman&color=%23FF6C37">
@@ -80,7 +68,6 @@ I am an **IT graduate** with a passion for **cybersecurity**, **programming**, a
   <img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=snort&logoColor=%23F6A7AA&logoSize=auto&label=Snort&color=%23F6A7AA">
   <img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logoColor=%239cdcf5&logoSize=auto&label=Nmap&color=%239cdcf5">
   <img alt="Static Badge" src="https://img.shields.io/badge/Excellent-Excellent?logo=apachenetbeanside&logoColor=%231B6AC6&logoSize=auto&label=Netbean%20&color=%231B6AC6">
-
 
 
 ---
@@ -108,46 +95,3 @@ I am an **IT graduate** with a passion for **cybersecurity**, **programming**, a
 
 Thank you for visiting my profile! Feel free to explore and collaborate on projects. 🌟
 
-
-
-
-
-
-
-
-
-# Hey there! 👋 Welcome to my world 🌐
-
-I'm **GehadEid**, a passionate **Developer &**, **Cybersecurity Specialist**, and tech enthusiast who thrives on creating innovative solutions. Whether it's crafting sleek apps or diving deep into cybersecurity challenges, I’m all about turning ideas into reality. ✨
-
-## 💻 **What I Do**
-- 🔒 **Cybersecurity**: Making systems safer, one vulnerability at a time.
-- 📱 **iOS Development**: Building stunning apps with **SwiftUI** and other Apple advanced technolongies.
-- 🎮 **Game Development**: Creating multiplayer, AR, and VR games.
-
-## 🏆 **My Achievements**
-- 🥇 **Naqlthon Winner**: 1st Place in Hajj & Umrah Track 🕋.
-- 🔥 **Top 5 in Ahhil Consultathon**: Innovating solutions for real-world challenges.
-- 🚁 **Tuwaiq Drones Challenge**: Built a gas-leak detecting drone.
-- 🎨 **5G University Competition**: Designed AR glasses for tourists.
-- 💡 Participated in **McKinsey Forward Program**.
-
-## 🔧 **Tech Stack**
-- **Languages**: Swift, Python, JavaScript, C#
-- **Frameworks**: SwiftUI, Firebase, GameKit
-- **Tools**: Xcode, Visual Studio Code, Git
-- **Specialties**: AI/ML, Backend Integration
-
-## 📚 **Projects**
-- **🎨 Drawing App**: A SwiftUI app with PencilKit for sketching masterpieces.
-- **🎙️ Voice Chat Game**: Multiplayer game with live communication.
-- **📅 Content Creator App**: Organizing posts and events with a calendar view.
-- **🔍 Post Evaluation Tool**: Using AI models to analyze social media content.
-
-
-## 📫 **Let’s Connect**
-- 💼 [LinkedIn](https://www.linkedin.com/in/gehadeid/)
-
----
-
-🔗 *Feel free to fork or star any of my repos if you find something interesting!* 😊
