@@ -1,5 +1,5 @@
 
-# Yo! this is **Gehad**
+# Yo! Gehad here
 
 I'm an **IT graduate** with a passion for **cybersecurity**, **programming**, and all nerdey shuff. that's what u gonna see in my repositories:
 
@@ -15,15 +15,6 @@ I'm an **IT graduate** with a passion for **cybersecurity**, **programming**, an
 
 ---
 
-## 🚀 Projects to Explore
-
-| **Project**          | **Description**                                                   | **Tech Stack**             |
-|----------------------|-------------------------------------------------------------------|----------------------------|
-| 🎨 **Drawing App**    | A SwiftUI-based app using PencilKit for creativity.               | SwiftUI, PencilKit         |
-| 🎧 **Audio App**      | An app for managing and playing audio files with playlists.       | Swift, Firebase, SwiftUI   |
-| 📅 **Content Calendar** | A calendar app for content creators to organize posts and events.| Firebase, Swift, VoiceOver |
-
----
 
 ## 💻 Tech Stack
 
@@ -84,10 +75,7 @@ I'm an **IT graduate** with a passion for **cybersecurity**, **programming**, an
 
 ## 🤝 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/YourProfile)  
-
-[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=github&logoColor=white)](https://your-portfolio.com)  
-[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gehadeid/)  
 
 ---
 
